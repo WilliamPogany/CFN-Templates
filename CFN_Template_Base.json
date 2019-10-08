@@ -1,10 +1,24 @@
 {
     "AWSTemplateFormatVersion" : "2010-09-09",
-    "Description" : "",
-    "Parameters" : "",
-    "Mappings" : "",
-    "Conditions" : "",
-    "Transform" : "",
-    "Resources" : "",
-    "Outputs" : {}
+    "Description" : {
+        Description
+    },
+    "Parameters" : {
+        Parameters
+    },
+    "Mappings" : {
+        Mappings
+    },
+    "Conditions" : {
+        Conditions
+    },
+    "Transform" : {
+        Transform
+    },
+    "Resources" : {
+        Resources
+    },
+    "Outputs" : {
+        set of outputs
+    }
   }
